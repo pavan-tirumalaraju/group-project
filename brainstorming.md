@@ -68,3 +68,27 @@
 *Habit:* The app could encourage regular volunteering by sending regular updates and new volunteer opportunities to users.
 
 *Scope:* V1 would allow volunteers to create profiles and search for volunteer opportunities based on location and interest. Organizations could create profiles and post volunteer opportunities. The app would match volunteers with organizations based on the information provided. V2 could incorporate volunteer scheduling and assignment management features.
+# Final App Chosen
+
+# Food Donor App
+
+## Overview
+The Food Donor App is a mobile application that allows users to donate excess food to local organizations in need. Users can create donation listings for items they want to donate, view a history of their donations, and receive notifications about pickup times and locations.
+
+## Category
+Social Impact
+
+## Mobile
+Provides mobile-first experience, donation management, collaboration, and visual organization of donations.
+
+## Story
+Allows users to donate excess food to local organizations in need, create donation listings, track their donations, and collaborate with others to make a larger impact.
+
+## Market
+People who want to reduce food waste and help their local communities would find this app useful.
+
+## Habit
+Users can use this app as frequently as they have excess food to donate, and to keep track of their donation history.
+
+## Scope
+The Food Donor App will focus on connecting individual donors with local organizations and may expand to include partnerships with food delivery services to improve pickup and delivery of donations.
