@@ -55,6 +55,8 @@ The Food Donor App will focus on connecting individual donors with local organiz
 
 ## Wireframes
 [Wireframes](insert link here)
+## GIF
+https://submissions.us-east-1.linodeobjects.com/and102/cxBaPFgQ.gif
 
 ## Future Scope
 - Tracker for the donations and to whom they have been provided.
