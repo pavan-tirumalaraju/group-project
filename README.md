@@ -24,12 +24,12 @@ The Food Donor App will focus on connecting individual donors with local organiz
 
 ## User Features
 ### Required Features
- []Creating a donation listing with information such as food type, quantity, expiration date, and pickup location
- []Viewing a history of donations made
+ - []Creating a donation listing with information such as food type, quantity, expiration date, and pickup location
+ - []Viewing a history of donations made
 
 ### Stretch Features
- []Receiving notifications about pickup locations (admin is sent an email)
- []Integration with a food delivery service for pickup and delivery of donations
+ - []Receiving notifications about pickup locations (admin is sent an email)
+ - []Integration with a food delivery service for pickup and delivery of donations
 
 ## Screen Archetypes
 - *Home Screen:* Displays a list of previous donations and an option to create a new donation listing
@@ -66,7 +66,12 @@ The Food Donor App will focus on connecting individual donors with local organiz
 - Firebase
 
 ## Contributors
-- [insert contributor names here]
+- pavantirumalaraju23@gmail.com
+- wooradi.rishbadev@sus.edu
+- Nareshchnrs@gmail.com
+- sailokesh863@gmail.com
+- rohithmallarapu@gmail.com
+- sailokesh863@gmail.com
 
 ## License
 This project is licensed under the MIT License. See LICENSE for more information.
