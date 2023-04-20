@@ -24,8 +24,8 @@ The Food Donor App will focus on connecting individual donors with local organiz
 
 ## User Features
 ### Required Features
- - [ ]Creating a donation listing with information such as food type, quantity, expiration date, and pickup location
- - [ ]Viewing a history of donations made
+ - [x]Creating a donation listing with information such as food type, quantity, expiration date, and pickup location
+ - [x]Viewing a history of donations made
 
 ### Stretch Features
  - [ ]Receiving notifications about pickup locations (admin is sent an email)
