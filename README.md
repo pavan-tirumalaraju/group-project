@@ -33,6 +33,7 @@ The Food Donor App will focus on connecting individual donors with local organiz
 
 ## Screen Archetypes
 - *Home Screen:* Displays a list of previous donations and an option to create a new donation listing
+
 - *Donation Form:* Allows users to input information about the donation they wish to make
 - *Donation Details:* Displays the details of a single donation listing, including any associated notifications
 - *User Profile:* Displays the user's profile information and settings
