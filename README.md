@@ -57,7 +57,7 @@ The Food Donor App will focus on connecting individual donors with local organiz
 ## Wireframes
 https://ibb.co/2qHdczG
 ## GIF
-https://submissions.us-east-1.linodeobjects.com/and102/nCbv7klN.gif
+https://submissions.us-east-1.linodeobjects.com/and102/2xMmjNCq.gif
 ## Demo Day Prep Video
 https://youtu.be/9WW7ij9l3yw
 
