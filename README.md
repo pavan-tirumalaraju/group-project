@@ -28,7 +28,7 @@ The Food Donor App will focus on connecting individual donors with local organiz
  - [x] Viewing a history of donations made
 
 ### Stretch Features
- - [ ] Receiving notifications about pickup locations (admin is sent an email)
+ - [x] Receiving notifications about pickup locations (admin is sent an email)
  - [ ] Integration with a food delivery service for pickup and delivery of donations
 
 ## Screen Archetypes
